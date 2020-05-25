@@ -1,0 +1,121 @@
+[
+  {
+    "user": {
+      "userName": "Paola_Paz40",
+      "pictureUrl": "/static/profile-photos/9.jpg"
+    },
+    "url": "/static/stories/1.jpg"
+  },
+  {
+    "user": {
+      "userName": "Abigail96",
+      "pictureUrl": "/static/profile-photos/13.jpg"
+    },
+    "url": "/static/stories/2.jpg"
+  },
+  {
+    "user": {
+      "userName": "Manuela32",
+      "pictureUrl": "/static/profile-photos/5.jpg"
+    },
+    "url": "/static/stories/3.jpg"
+  },
+  {
+    "user": {
+      "userName": "AnaSofía.Castañeda24",
+      "pictureUrl": "/static/profile-photos/16.jpg"
+    },
+    "url": "/static/stories/4.jpg"
+  },
+  {
+    "user": {
+      "userName": "Carolina78",
+      "pictureUrl": "/static/profile-photos/1.jpg"
+    },
+    "url": "/static/stories/5.jpg"
+  },
+  {
+    "user": {
+      "userName": "Rubén_Vallejo54",
+      "pictureUrl": "/static/profile-photos/8.jpg"
+    },
+    "url": "/static/stories/6.jpg"
+  },
+  {
+    "user": {
+      "userName": "Patricio_Rivero",
+      "pictureUrl": "/static/profile-photos/6.jpg"
+    },
+    "url": "/static/stories/7.jpg"
+  },
+  {
+    "user": {
+      "userName": "Regina_Zapata68",
+      "pictureUrl": "/static/profile-photos/17.jpg"
+    },
+    "url": "/static/stories/8.jpg"
+  },
+  {
+    "user": {
+      "userName": "Mariana_Cardenas",
+      "pictureUrl": "/static/profile-photos/15.jpg"
+    },
+    "url": "/static/stories/9.jpg"
+  },
+  {
+    "user": {
+      "userName": "Eduardo.Mascareñas52",
+      "pictureUrl": "/static/profile-photos/2.jpg"
+    },
+    "url": "/static/stories/10.jpg"
+  },
+  {
+    "user": {
+      "userName": "Lorena_Páez",
+      "pictureUrl": "/static/profile-photos/4.jpg"
+    },
+    "url": "/static/stories/11.jpg"
+  },
+  {
+    "user": {
+      "userName": "Patricio.Cazares20",
+      "pictureUrl": "/static/profile-photos/12.jpg"
+    },
+    "url": "/static/stories/12.jpg"
+  },
+  {
+    "user": {
+      "userName": "Carlota_Botello",
+      "pictureUrl": "/static/profile-photos/14.jpg"
+    },
+    "url": "/static/stories/13.jpg"
+  },
+  {
+    "user": {
+      "userName": "Pedro.Zamora",
+      "pictureUrl": "/static/profile-photos/11.jpg"
+    },
+    "url": "/static/stories/14.jpg"
+  },
+  {
+    "user": {
+      "userName": "MaríadeJesús_Marín",
+      "pictureUrl": "/static/profile-photos/3.jpg"
+    },
+    "url": "/static/stories/15.jpg"
+  },
+  {
+    "user": {
+      "userName": "Octavio60",
+      "pictureUrl": "/static/profile-photos/7.jpg"
+    },
+    "url": "/static/stories/16.jpg"
+  },
+  {
+    "user": {
+      "userName": "Jaime.Granados",
+      "pictureUrl": "/static/profile-photos/10.jpg"
+    },
+    "url": "/static/stories/17.jpg"
+  }
+]
