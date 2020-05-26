@@ -11,7 +11,7 @@ const Post = new Schema({
   location: String,
   numberComments: Number,
   media: [Media],
-  user: [User],
+  user: User,
 });
 
 module.exports = mongoose.model('posts', Post);

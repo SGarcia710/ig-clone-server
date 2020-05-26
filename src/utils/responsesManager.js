@@ -10,8 +10,7 @@ const responseError = (error) => {
 const responseSuccess = (response) => {
   const data = {
     status: 'success',
-    resultsCount: response.results.length,
-    data: response,
+    results: { ...response, count: response.data.length },
   };
   return data;
 };

@@ -2,4 +2,4 @@
 # GET http://localhost:4000/api/posts?limit=5&page=3
 
 # GET http://localhost:4000/api/stories
-# GET http://localhost:4000/api/stories?limit=2&page=2
+GET http://localhost:4000/api/stories?limit=2&page=9

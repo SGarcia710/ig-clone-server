@@ -24,7 +24,7 @@ function paginatedResults(model) {
       };
     }
     try {
-      results.results = await model.find().limit(limit).skip(startIndex).exec();
+      results.data = await model.find().limit(limit).skip(startIndex).exec();
       res.paginatedResults = results;
       next();
     } catch (e) {
